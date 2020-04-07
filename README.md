@@ -14,6 +14,14 @@ For example, the language has:
 
 ¯\\\_(ツ)\_/¯
 
+## Interpreters
+
+Currently the only interpreter I know of is mine, which you can see in this repo as `interpreter.js`! It only has the very basic features of 78 and nothing else. To run it, you have to do:
+
+```bash
+node interpreter.js code.78
+```
+
 ## Syntax
 
 The syntax of the language is really simple. Each character in a program is an instruction, which must be one of the pre-defined instructions. Each instruction in the program is ran in order over and over again until the program is terminated.
